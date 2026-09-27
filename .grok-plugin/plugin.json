@@ -1,0 +1,12 @@
+{
+  "name": "socialmcp",
+  "version": "1.0.0",
+  "description": "Manage social accounts through SocialMCP's hosted OAuth MCP server.",
+  "author": {
+    "name": "SocialMCP",
+    "url": "https://social-mcp.finepher.com"
+  },
+  "homepage": "https://social-mcp.finepher.com",
+  "license": "Proprietary",
+  "keywords": ["socialmcp", "social media", "social media management", "mcp", "finepher"]
+}
