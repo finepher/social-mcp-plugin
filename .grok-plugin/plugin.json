@@ -8,5 +8,7 @@
   },
   "homepage": "https://social-mcp.finepher.com",
   "license": "Proprietary",
+  "logo": "assets/socialMCP_128x128.png",
   "keywords": ["socialmcp", "social media", "social media management", "mcp", "finepher"]
+  
 }

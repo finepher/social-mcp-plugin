@@ -1,4 +1,4 @@
-# SocialMCP plugin for Grok Build 
+# SocialMCP plugin for Grok Build
 
 Connect Grok Build to [SocialMCP](https://social-mcp.finepher.com) to manage
 social accounts through its hosted MCP server.
